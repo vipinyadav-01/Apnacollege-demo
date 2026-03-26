@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This is my first got repository 
+This is my first git repository.
+Author- Vipin yadav
